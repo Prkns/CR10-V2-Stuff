@@ -1,3 +1,0 @@
-# Install Guide
-
-Coming soon!

@@ -35,3 +35,9 @@ You can download my setup config file from here -> [printer.cfg]("./printer.cfg 
 ---
 
 ![%|](./photos/cr10-v2_e3d-hemera_bltouch_2.jpg "CR10 v2 + E3D Hemera + BLTouch")
+
+---
+
+### References
+
+- [Zippy Guides - Macros](https://github.com/rootiest/zippy_guides/blob/main/guides/macros.md)
